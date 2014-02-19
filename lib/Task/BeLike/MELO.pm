@@ -7,7 +7,7 @@ use warnings;
 1;
 
 
-=head1 SYNOPSYS
+=head1 SYNOPSIS
 
     cpan Task::BeLike::MELO
     # Now grab a cup of tea, this will take a while..
