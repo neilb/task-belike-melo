@@ -6,6 +6,9 @@ use warnings;
 
 1;
 
+=head1 NAME
+
+Task::BeLike::MELO - all the modules that MELO likes to keep around
 
 =head1 SYNOPSIS
 
